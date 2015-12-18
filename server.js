@@ -55,7 +55,7 @@ server.register(require('inert'), function (err) {
       }
     }
   });
-  
+
 });
 
 server.start(function () {
