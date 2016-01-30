@@ -4,4 +4,4 @@
 
 Will find and display statistical information from Hacker News: https://news.ycombinator.com/
 
-![](/assets/hackerTrendsMockUp.jpg "screenshot")
+![](/assets/hackerTrendsMockUp.jpg?raw=true "screenshot")
