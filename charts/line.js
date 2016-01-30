@@ -1,4 +1,5 @@
 $(function () { 
+  //try storing data in JSON object instead
   $.get('../charts/data.csv', function(csv) {
     console.log(csv);
     $('#line').highcharts({
